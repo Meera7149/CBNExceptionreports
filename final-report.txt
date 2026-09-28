@@ -1,0 +1,45 @@
+
+========= REPORT_01-Jun-2026 =========
+
+Travel Project Exception Ticket
+
+Period: 01-Jun-2026 to 30-Jun-2026
+
+Duplicate in Flight booking Report-Issue → 0 Tickets
+
+Ticket Number with Wrong Format in NDC's Report → 0 Tickets
+
+Amount mismatch between Flight Booking and Sold Report ERROR → page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+[2m  - navigating to "http://100.10050.14/srx/reco/recomanage/amount_mismatch_between_flight_booking_and_sold_report#!", waiting until "load"[22m
+
+
+========= REPORT_01-May-2026 =========
+
+Travel Project Exception Ticket
+
+Period: 01-May-2026 to 31-May-2026
+
+Duplicate in Flight booking Report-Issue → 0 Tickets
+
+Ticket Number with Wrong Format in NDC's Report → 0 Tickets
+
+Amount mismatch between Flight Booking and Sold Report ERROR → page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+[2m  - navigating to "http://100.10050.14/srx/reco/recomanage/amount_mismatch_between_flight_booking_and_sold_report#!", waiting until "load"[22m
+
+
+========= REPORT_01-Apr-2026 =========
+
+Travel Project Exception Ticket
+
+Period: 01-Apr-2026 to 30-Apr-2026
+
+Duplicate in Flight booking Report-Issue → 0 Tickets
+
+Ticket Number with Wrong Format in NDC's Report → 0 Tickets → 
+
+Amount mismatch between Flight Booking and Sold Report ERROR → page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+[2m  - navigating to "http://100.10050.14/srx/reco/recomanage/amount_mismatch_between_flight_booking_and_sold_report#!", waiting until "load"[22m
+

@@ -1,0 +1,94 @@
+
+========= FINAL SUMMARY =========
+
+
+# Travel Project Exception Ticket
+
+### Jan-2026 to Till Today :
+
+❌ TEST FAILED
+page.goto: net::ERR_CONNECTION_TIMED_OUT at http://100.100.50.14/srx/
+Call log:
+[2m  - navigating to "http://100.100.50.14/srx/", waiting until "load"[22m
+
+
+
+========= FINAL SUMMARY =========
+
+
+# Travel Project Exception Ticket
+
+### Jan-2026 to Till Today :
+
+Duplicate in Flight booking Report-Refund ------ 1<br>1035366
+
+
+========= FINAL SUMMARY =========
+
+
+# Travel Project Exception Ticket
+
+### Jan-2026 to Till Today :
+
+Duplicate in Flight booking Report-Refund ------ 1<br>607-5512772284
+
+
+========= FINAL SUMMARY =========
+
+
+# Travel Project Exception Ticket
+
+### Jan-2026 to Till Today :
+
+Duplicate in Flight booking Report-Refund ------ 1<br>607-5512772284
+
+
+========= FINAL SUMMARY =========
+
+
+# Travel Project Exception Ticket
+
+### Jan-2026 to Till Today :
+
+Duplicate in Flight booking Report-Refund ------ 1<br>607-5512772284
+
+
+========= FINAL SUMMARY =========
+
+
+# Travel Project Exception Ticket
+
+### Jan-2026 to Till Today :
+
+Duplicate in Flight booking Report-Refund ------ 1<br>607-5512772284
+
+
+========= FINAL SUMMARY =========
+
+
+# Travel Project Exception Ticket
+
+### Jan-2026 to Till Today :
+
+Duplicate in Flight booking Report-Refund ------ 1<br>607-5512772284
+
+
+========= FINAL SUMMARY =========
+
+
+# Travel Project Exception Ticket
+
+### Jan-2026 to Till Today :
+
+Duplicate in Flight booking Report-Refund--- 0
+
+
+========= FINAL SUMMARY =========
+
+
+# Travel Project Exception Ticket
+
+### Jan-2026 to Till Today :
+
+Duplicate in Flight booking Report-Refund--- 0
+

@@ -1,0 +1,418 @@
+
+========= FINAL SUMMARY =========
+
+
+# Travel Project Exception Ticket
+
+### Jan-2023 To Current Date
+
+Duplicate in Flight booking Report-Issue Ticket Count ------ 8 Tickets ------ 607-5511395858, 176-3903670723, 006-3903553306, NR137Z, 176-3902864011-1, 514-2354754633, 514-2354754634, 176-3901617221<br><br>Ticket Number with Wrong Format in NDC's Report Ticket Count ------ 0 Tickets ------ <br><br>Amount mismatch between Flight Booking and Sold Report Ticket Count ------ 5 Tickets ------ 001-0820159946, 001-0820159944, 001-0820159945, 176-9492691834, UY5SYT-11
+
+
+========= PREVIOUS MONTH SUMMARY =========
+
+
+# Travel Project Exception Ticket
+
+### 01-05-2026 To 31-05-2026
+
+Duplicate in Flight booking Report-Issue Ticket Count ------ 0 Tickets ------<br><br>Ticket Number with Wrong Format in NDC's Report Ticket Count ------ 0 Tickets ------<br><br>Amount mismatch between Flight Booking and Sold Report Ticket Count ------ 4 Tickets ------ 001-0820159946, 001-0820159944, 001-0820159945, 176-9492691834
+
+
+========= FINAL SUMMARY =========
+
+
+# Travel Project Exception Ticket
+
+### Jan-2023 To Current Date
+
+Duplicate in Flight booking Report-Issue Ticket Count ------ 8 Tickets ------ 607-5511395858, 176-3903670723, 006-3903553306, NR137Z, 176-3902864011-1, 514-2354754633, 514-2354754634, 176-3901617221<br><br>Ticket Number with Wrong Format in NDC's Report Ticket Count ------ 0 Tickets ------ <br><br>Amount mismatch between Flight Booking and Sold Report Ticket Count ------ 2 Tickets ------ 176-9492691834, UY5SYT-11
+
+
+========= PREVIOUS MONTH SUMMARY =========
+
+
+# Travel Project Exception Ticket
+
+### 01-05-2026 To 31-05-2026
+
+Duplicate in Flight booking Report-Issue Ticket Count ------ 0 Tickets ------<br><br>Ticket Number with Wrong Format in NDC's Report Ticket Count ------ 0 Tickets ------<br><br>Amount mismatch between Flight Booking and Sold Report Ticket Count ------ 25 Tickets ------ 607-5512788826, 607-5512663891, 607-6075782087, 125-6075782150, 125-6075782149, 607-6075782148, 607-5512775090, 607-5512775106, 607-5512768906, 607-5512762572, 607-5512762571, 607-5512762570, 607-5512762573, 607-5512769046, 607-5512769045, 607-5512774992, 071-6076154615, 071-6076152410, 176-6073563583, 176-6073563582, 176-6073563580, 176-6073563579, 176-6073563578, 607-5512596981, 607-5512596980
+
+
+========= FINAL SUMMARY =========
+
+
+# Travel Project Exception Ticket
+
+### Jan-2023 To Current Date
+
+Duplicate in Flight booking Report-Issue Ticket Count ------ 8 Tickets ------ 607-5511395858, 176-3903670723, 006-3903553306, NR137Z, 176-3902864011-1, 514-2354754633, 514-2354754634, 176-3901617221<br><br>Ticket Number with Wrong Format in NDC's Report Ticket Count ------ 0 Tickets ------ <br><br>Amount mismatch between Flight Booking and Sold Report Ticket Count ------ 2 Tickets ------ 176-9492691834, UY5SYT-11
+
+
+========= PREVIOUS MONTH SUMMARY =========
+
+
+# Travel Project Exception Ticket
+
+### 01-05-2026 To 31-05-2026
+
+Duplicate in Flight booking Report-Issue Ticket Count ------ 0 Tickets ------<br><br>Ticket Number with Wrong Format in NDC's Report Ticket Count ------ 0 Tickets ------<br><br>Amount mismatch between Flight Booking and Sold Report ❌ ERROR: page.waitForLoadState: Test ended.
+
+
+========= FINAL SUMMARY =========
+
+
+# Travel Project Exception Ticket
+
+### Jan-2023 To Current Date
+
+Duplicate in Flight booking Report-Issue Ticket Count ------ 8 Tickets ------ 607-5511395858, 176-3903670723, 006-3903553306, NR137Z, 176-3902864011-1, 514-2354754633, 514-2354754634, 176-3901617221<br><br>Ticket Number with Wrong Format in NDC's Report Ticket Count ------ 0 Tickets ------ <br><br>Amount mismatch between Flight Booking and Sold Report Ticket Count ------ 2 Tickets ------ 176-9492691834, UY5SYT-11
+
+
+========= FINAL SUMMARY =========
+
+
+# Travel Project Exception Ticket
+
+### Jan-2023 To Current Date
+
+Duplicate in Flight booking Report-Issue Ticket Count ------ 8 Tickets ------ 607-5511395858, 176-3903670723, 006-3903553306, NR137Z, 176-3902864011-1, 514-2354754633, 514-2354754634, 176-3901617221<br><br>Ticket Number with Wrong Format in NDC's Report Ticket Count ------ 0 Tickets ------ <br><br>Amount mismatch between Flight Booking and Sold Report Ticket Count ------ 2 Tickets ------ 176-9492691834, UY5SYT-11
+
+
+========= FINAL SUMMARY =========
+
+
+# Travel Project Exception Ticket
+
+### Jan-2023 To Current Date
+
+Duplicate in Flight booking Report-Issue Ticket Count ------ 8 Tickets ------ 607-5511395858, 176-3903670723, 006-3903553306, NR137Z, 176-3902864011-1, 514-2354754633, 514-2354754634, 176-3901617221<br><br>Ticket Number with Wrong Format in NDC's Report Ticket Count ------ 0 Tickets ------ <br><br>Amount mismatch between Flight Booking and Sold Report Ticket Count ------ 2 Tickets ------ 176-9492691834, UY5SYT-11
+
+
+========= PREVIOUS MONTH SUMMARY =========
+
+
+# Travel Project Exception Ticket
+
+### 01-05-2026 To 31-05-2026
+
+Duplicate in Flight booking Report-Issue Ticket Count ------ 0 Tickets ------<br><br>Ticket Number with Wrong Format in NDC's Report Ticket Count ------ 0 Tickets ------<br><br>Amount mismatch between Flight Booking and Sold Report Ticket Count ------ 25 Tickets ------ 607-5512788826, 607-5512663891, 607-6075782087, 125-6075782150, 125-6075782149, 607-6075782148, 607-5512775090, 607-5512775106, 607-5512768906, 607-5512762572, 607-5512762571, 607-5512762570, 607-5512762573, 607-5512769046, 607-5512769045, 607-5512774992, 071-6076154615, 071-6076152410, 176-6073563583, 176-6073563582, 176-6073563580, 176-6073563579, 176-6073563578, 607-5512596981, 607-5512596980
+
+
+========= PREVIOUS MONTH SUMMARY =========
+
+
+# Travel Project Exception Ticket
+
+### 01-05-2026 To 31-05-2026
+
+Duplicate in Flight booking Report-Issue Ticket Count ------ 0 Tickets ------<br><br>Ticket Number with Wrong Format in NDC's Report Ticket Count ------ 0 Tickets ------<br><br>Amount mismatch between Flight Booking and Sold Report Ticket Count ------ 25 Tickets ------ 607-5512788826, 607-5512663891, 607-6075782087, 125-6075782150, 125-6075782149, 607-6075782148, 607-5512775090, 607-5512775106, 607-5512768906, 607-5512762572, 607-5512762571, 607-5512762570, 607-5512762573, 607-5512769046, 607-5512769045, 607-5512774992, 071-6076154615, 071-6076152410, 176-6073563583, 176-6073563582, 176-6073563580, 176-6073563579, 176-6073563578, 607-5512596981, 607-5512596980
+
+
+========= FINAL SUMMARY =========
+
+
+# Travel Project Exception Ticket
+
+### Jan-2023 To Current Date
+
+Duplicate in Flight booking Report-Issue Ticket Count ------ 8 Tickets ------ 607-5511395858, 176-3903670723, 006-3903553306, NR137Z, 176-3902864011-1, 514-2354754633, 514-2354754634, 176-3901617221<br><br>Ticket Number with Wrong Format in NDC's Report Ticket Count ------ 0 Tickets ------ <br><br>Amount mismatch between Flight Booking and Sold Report Ticket Count ------ 2 Tickets ------ 176-9492691834, UY5SYT-11
+
+
+========= PREVIOUS MONTH SUMMARY =========
+
+
+# Travel Project Exception Ticket
+
+### 01-05-2026 To 31-05-2026
+
+Duplicate in Flight booking Report-Issue Ticket Count ------ 0 Tickets ------<br><br>Duplicate in Flight booking Report-Refund Ticket Count ------ 0 Tickets ------<br><br>Supplier mismatch between Issue & Void in Flight booking report Ticket Count ------ 25 Tickets ------ 607-5512788826, 607-5512663891, 607-6075782087, 125-6075782150, 125-6075782149, 607-6075782148, 607-5512775090, 607-5512775106, 607-5512768906, 607-5512762572, 607-5512762571, 607-5512762570, 607-5512762573, 607-5512769046, 607-5512769045, 607-5512774992, 071-6076154615, 071-6076152410, 176-6073563583, 176-6073563582, 176-6073563580, 176-6073563579, 176-6073563578, 607-5512596981, 607-5512596980
+
+
+========= PREVIOUS MONTH SUMMARY =========
+
+
+# Travel Project Exception Ticket
+
+### 01-05-2026 To 31-05-2026
+
+Duplicate in Flight booking Report-Issue Ticket Count ------ 0 Tickets ------<br><br>Ticket Number with Wrong Format in NDC's Report Ticket Count ------ 0 Tickets ------<br><br>Amount mismatch between Flight Booking and Sold Report Ticket Count ------ 25 Tickets ------ 607-5512788826, 607-5512663891, 607-6075782087, 125-6075782150, 125-6075782149, 607-6075782148, 607-5512775090, 607-5512775106, 607-5512768906, 607-5512762572, 607-5512762571, 607-5512762570, 607-5512762573, 607-5512769046, 607-5512769045, 607-5512774992, 071-6076154615, 071-6076152410, 176-6073563583, 176-6073563582, 176-6073563580, 176-6073563579, 176-6073563578, 607-5512596981, 607-5512596980
+
+
+========= FINAL SUMMARY =========
+
+
+# Travel Project Exception Ticket
+
+### Jan-2023 To Current Date
+
+Duplicate in Flight booking Report-Issue Ticket Count ------ 8 Tickets ------ 607-5511395858, 176-3903670723, 006-3903553306, NR137Z, 176-3902864011-1, 514-2354754633, 514-2354754634, 176-3901617221<br><br>Ticket Number with Wrong Format in NDC's Report Ticket Count ------ 0 Tickets ------ <br><br>Amount mismatch between Flight Booking and Sold Report Ticket Count ------ 2 Tickets ------ 176-9492691834, UY5SYT-11
+
+
+========= PREVIOUS MONTH SUMMARY =========
+
+
+# Travel Project Exception Ticket
+
+### 01-05-2026 To 31-05-2026
+
+Duplicate in Flight booking Report-Issue Ticket Count ------ 0 Tickets ------<br><br>Duplicate in Flight booking Report-Refund Ticket Count ------ 0 Tickets ------<br><br>Supplier mismatch between Issue & Void in Flight booking report Ticket Count ------ 25 Tickets ------ 607-5512788826, 607-5512663891, 607-6075782087, 125-6075782150, 125-6075782149, 607-6075782148, 607-5512775090, 607-5512775106, 607-5512768906, 607-5512762572, 607-5512762571, 607-5512762570, 607-5512762573, 607-5512769046, 607-5512769045, 607-5512774992, 071-6076154615, 071-6076152410, 176-6073563583, 176-6073563582, 176-6073563580, 176-6073563579, 176-6073563578, 607-5512596981, 607-5512596980
+
+
+========= PREVIOUS MONTH SUMMARY =========
+
+
+# Travel Project Exception Ticket
+
+### 01-05-2026 To 31-05-2026
+
+Duplicate in Flight booking Report-Issue Ticket Count ------ 0 Tickets ------<br><br>Ticket Number with Wrong Format in NDC's Report Ticket Count ------ 0 Tickets ------<br><br>Amount mismatch between Flight Booking and Sold Report Ticket Count ------ 25 Tickets ------ 607-5512788826, 607-5512663891, 607-6075782087, 125-6075782150, 125-6075782149, 607-6075782148, 607-5512775090, 607-5512775106, 607-5512768906, 607-5512762572, 607-5512762571, 607-5512762570, 607-5512762573, 607-5512769046, 607-5512769045, 607-5512774992, 071-6076154615, 071-6076152410, 176-6073563583, 176-6073563582, 176-6073563580, 176-6073563579, 176-6073563578, 607-5512596981, 607-5512596980
+
+
+========= FINAL SUMMARY =========
+
+
+# Travel Project Exception Ticket
+
+### Jan-2023 To Current Date
+
+Duplicate in Flight booking Report-Issue Ticket Count ------ 8 Tickets ------ 607-5511395858, 176-3903670723, 006-3903553306, NR137Z, 176-3902864011-1, 514-2354754633, 514-2354754634, 176-3901617221<br><br>Ticket Number with Wrong Format in NDC's Report Ticket Count ------ 0 Tickets ------ <br><br>Amount mismatch between Flight Booking and Sold Report Ticket Count ------ 2 Tickets ------ 176-9492691834, UY5SYT-11
+
+
+========= PREVIOUS MONTH SUMMARY =========
+
+
+# Travel Project Exception Ticket
+
+### 01-05-2026 To 31-05-2026
+
+Duplicate in Flight booking Report-Issue ❌ ERROR: locator.waitFor: Error: strict mode violation: locator('table') resolved to 5 elements:
+    1) <table class="table table-bordered table-striped table-condensed refund-search-pax-result-table">…</table> aka locator('#lpo_invoice2 table')
+    2) <table class="table table-bordered table-striped table-condensed receipt-search-pax-result-table">…</table> aka locator('#rcpt_new_form_new_details0 table')
+    3) <table class="table table-bordered table-striped table-condensed supplier-contact-pax-result-table">…</table> aka locator('table').filter({ hasText: '# Supplier Name Mobile Email' })
+    4) <table class="table table-bordered table-striped table-condensed new-supplier-contact-pax-result-table">…</table> aka locator('table').filter({ hasText: '# Supplier Site Name Mobile' })
+    5) <table role="grid" id="example" cellspacing="0" aria-describedby="example_info" class="table table-bordered table-striped dtid dataTable no-footer">…</table> aka locator('#example')
+
+Call log:
+[2m  - waiting for locator('table') to be visible[22m
+<br><br>Duplicate in Flight booking Report-Refund ❌ ERROR: locator.waitFor: Error: strict mode violation: locator('table') resolved to 5 elements:
+    1) <table class="table table-bordered table-striped table-condensed refund-search-pax-result-table">…</table> aka locator('#lpo_invoice2 table')
+    2) <table class="table table-bordered table-striped table-condensed receipt-search-pax-result-table">…</table> aka locator('#rcpt_new_form_new_details0 table')
+    3) <table class="table table-bordered table-striped table-condensed supplier-contact-pax-result-table">…</table> aka locator('table').filter({ hasText: '# Supplier Name Mobile Email' })
+    4) <table class="table table-bordered table-striped table-condensed new-supplier-contact-pax-result-table">…</table> aka locator('table').filter({ hasText: '# Supplier Site Name Mobile' })
+    5) <table role="grid" id="example" cellspacing="0" aria-describedby="example_info" class="table table-bordered table-striped dtid dataTable no-footer">…</table> aka locator('#example')
+
+Call log:
+[2m  - waiting for locator('table') to be visible[22m
+<br><br>Supplier mismatch between Issue & Void in Flight booking report ❌ ERROR: locator.waitFor: Error: strict mode violation: locator('table') resolved to 5 elements:
+    1) <table class="table table-bordered table-striped table-condensed refund-search-pax-result-table">…</table> aka locator('#lpo_invoice2 table')
+    2) <table class="table table-bordered table-striped table-condensed receipt-search-pax-result-table">…</table> aka locator('#rcpt_new_form_new_details0 table')
+    3) <table class="table table-bordered table-striped table-condensed supplier-contact-pax-result-table">…</table> aka locator('table').filter({ hasText: '# Supplier Name Mobile Email' })
+    4) <table class="table table-bordered table-striped table-condensed new-supplier-contact-pax-result-table">…</table> aka locator('table').filter({ hasText: '# Supplier Site Name Mobile' })
+    5) <table role="grid" id="example" cellspacing="0" aria-describedby="example_info" class="table table-bordered table-striped dtid dataTable no-footer">…</table> aka locator('#example')
+
+Call log:
+[2m  - waiting for locator('table') to be visible[22m
+
+
+
+========= PREVIOUS MONTH SUMMARY =========
+
+
+# Travel Project Exception Ticket
+
+### 01-05-2026 To 31-05-2026
+
+Duplicate in Flight booking Report-Issue Ticket Count ------ 0 Tickets ------<br><br>Ticket Number with Wrong Format in NDC's Report Ticket Count ------ 0 Tickets ------<br><br>Amount mismatch between Flight Booking and Sold Report Ticket Count ------ 25 Tickets ------ 607-5512788826, 607-5512663891, 607-6075782087, 125-6075782150, 125-6075782149, 607-6075782148, 607-5512775090, 607-5512775106, 607-5512768906, 607-5512762572, 607-5512762571, 607-5512762570, 607-5512762573, 607-5512769046, 607-5512769045, 607-5512774992, 071-6076154615, 071-6076152410, 176-6073563583, 176-6073563582, 176-6073563580, 176-6073563579, 176-6073563578, 607-5512596981, 607-5512596980
+
+
+========= FINAL SUMMARY =========
+
+
+# Travel Project Exception Ticket
+
+### Jan-2023 To Current Date
+
+Duplicate in Flight booking Report-Issue Ticket Count ------ 8 Tickets ------ 607-5511395858, 176-3903670723, 006-3903553306, NR137Z, 176-3902864011-1, 514-2354754633, 514-2354754634, 176-3901617221<br><br>Ticket Number with Wrong Format in NDC's Report Ticket Count ------ 0 Tickets ------ <br><br>Amount mismatch between Flight Booking and Sold Report Ticket Count ------ 2 Tickets ------ 176-9492691834, UY5SYT-11
+
+
+========= PREVIOUS MONTH SUMMARY =========
+
+
+# Travel Project Exception Ticket
+
+### 01-05-2026 To 31-05-2026
+
+Duplicate in Flight booking Report-Issue Ticket Count ------ 0 Tickets ------<br><br>Duplicate in Flight booking Report-Refund Ticket Count ------ 0 Tickets ------<br><br>Supplier mismatch between Issue & Void in Flight booking report Ticket Count ------ 25 Tickets ------ 607-5512788826, 607-5512663891, 607-6075782087, 125-6075782150, 125-6075782149, 607-6075782148, 607-5512775090, 607-5512775106, 607-5512768906, 607-5512762572, 607-5512762571, 607-5512762570, 607-5512762573, 607-5512769046, 607-5512769045, 607-5512774992, 071-6076154615, 071-6076152410, 176-6073563583, 176-6073563582, 176-6073563580, 176-6073563579, 176-6073563578, 607-5512596981, 607-5512596980
+
+
+========= PREVIOUS MONTH SUMMARY =========
+
+
+# Travel Project Exception Ticket
+
+### 01-05-2026 To 31-05-2026
+
+❌ TEST FAILED
+page.waitForTimeout: Target page, context or browser has been closed
+
+
+========= FINAL SUMMARY =========
+
+
+# Travel Project Exception Ticket
+
+### Jan-2023 To Current Date
+
+Duplicate in Flight booking Report-Issue Ticket Count ------ 8 Tickets ------ 607-5511395858, 176-3903670723, 006-3903553306, NR137Z, 176-3902864011-1, 514-2354754633, 514-2354754634, 176-3901617221<br><br>Ticket Number with Wrong Format in NDC's Report Ticket Count ------ 0 Tickets ------ <br><br>Amount mismatch between Flight Booking and Sold Report Ticket Count ------ 2 Tickets ------ 176-9492691834, UY5SYT-11
+
+
+========= PREVIOUS MONTH SUMMARY =========
+
+
+# Travel Project Exception Ticket
+
+### 01-05-2026 To 31-05-2026
+
+Duplicate in Flight booking Report-Issue Ticket Count ------ 0 Tickets ------<br><br>Duplicate in Flight booking Report-Refund Ticket Count ------ 0 Tickets ------<br><br>Supplier mismatch between Issue & Void in Flight booking report Ticket Count ------ 25 Tickets ------ 607-5512788826, 607-5512663891, 607-6075782087, 125-6075782150, 125-6075782149, 607-6075782148, 607-5512775090, 607-5512775106, 607-5512768906, 607-5512762572, 607-5512762571, 607-5512762570, 607-5512762573, 607-5512769046, 607-5512769045, 607-5512774992, 071-6076154615, 071-6076152410, 176-6073563583, 176-6073563582, 176-6073563580, 176-6073563579, 176-6073563578, 607-5512596981, 607-5512596980
+
+
+========= PREVIOUS MONTH SUMMARY =========
+
+
+# Travel Project Exception Ticket
+
+### 01-05-2026 To 31-05-2026
+
+Duplicate in Flight booking Report-Issue Ticket Count ------ 0 Tickets ------<br><br>Ticket Number with Wrong Format in NDC's Report Ticket Count ------ 0 Tickets ------<br><br>Amount mismatch between Flight Booking and Sold Report Ticket Count ------ 25 Tickets ------ 607-5512788826, 607-5512663891, 607-6075782087, 125-6075782150, 125-6075782149, 607-6075782148, 607-5512775090, 607-5512775106, 607-5512768906, 607-5512762572, 607-5512762571, 607-5512762570, 607-5512762573, 607-5512769046, 607-5512769045, 607-5512774992, 071-6076154615, 071-6076152410, 176-6073563583, 176-6073563582, 176-6073563580, 176-6073563579, 176-6073563578, 607-5512596981, 607-5512596980
+
+
+========= FINAL SUMMARY =========
+
+
+# Travel Project Exception Ticket
+
+### Jan-2023 To Current Date
+
+Duplicate in Flight booking Report-Issue Ticket Count ------ 0 Tickets ------ <br><br>Ticket Number with Wrong Format in NDC's Report Ticket Count ------ 0 Tickets ------ <br><br>Amount mismatch between Flight Booking and Sold Report Ticket Count ------ 2 Tickets ------ 176-9492691834, UY5SYT-11
+
+
+========= PREVIOUS MONTH SUMMARY =========
+
+
+# Travel Project Exception Ticket
+
+### 01-05-2026 To 31-05-2026
+
+Duplicate in Flight booking Report-Issue Ticket Count ------ 0 Tickets ------<br><br>Duplicate in Flight booking Report-Refund Ticket Count ------ 0 Tickets ------<br><br>Supplier mismatch between Issue & Void in Flight booking report Ticket Count ------ 25 Tickets ------ 607-5512788826, 607-5512663891, 607-6075782087, 125-6075782150, 125-6075782149, 607-6075782148, 607-5512775090, 607-5512775106, 607-5512768906, 607-5512762572, 607-5512762571, 607-5512762570, 607-5512762573, 607-5512769046, 607-5512769045, 607-5512774992, 071-6076154615, 071-6076152410, 176-6073563583, 176-6073563582, 176-6073563580, 176-6073563579, 176-6073563578, 607-5512596981, 607-5512596980
+
+
+========= FINAL SUMMARY =========
+
+
+# Travel Project Exception Ticket
+
+### Jan-2023 To Current Date
+
+Duplicate in Flight booking Report-Issue Ticket Count ------ 2 Tickets ------ 607-5512831726, 607-5511941473<br><br>Ticket Number with Wrong Format in NDC's Report Ticket Count ------ 0 Tickets ------ <br><br>Amount mismatch between Flight Booking and Sold Report Ticket Count ------ 4 Tickets ------ 176-5512278317, UY5SYT-11, 176-5512249286, 607-5511941473
+
+
+========= FINAL SUMMARY =========
+
+
+# Travel Project Exception Ticket
+
+### Jan-2023 To Current Date
+
+Duplicate in Flight booking Report-Issue Ticket Count ------ 3 Tickets ------ 607-5512831726, 607-5511941473, 607-5511395858<br><br>Amount mismatch between Flight Booking and Sold Report Ticket Count ------ 5 Tickets ------ G76NUC-11, 176-5512278317, UY5SYT-11, 176-5512249286, 607-5511941473<br><br>Ticket Number with Wrong Format in NDC's Report Ticket Count ------ 0 Tickets ------ <br><br>Amount mismatch between Flight Booking and Sold Report Ticket Count ------ 5 Tickets ------ G76NUC-11, 176-5512278317, UY5SYT-11, 176-5512249286, 607-5511941473
+
+
+========= FINAL SUMMARY =========
+
+
+# Travel Project Exception Ticket
+
+### Jan-2025 to Till Today :
+
+Duplicate in Flight booking Report-Issue ------ 3<br>607-5512831726, 607-5511941473, 607-5511395858<br><br>Ticket in Flight Booking but missing in Sold Report-Issue ------ 2<br>607-5512847145, 512-2116905386<br><br>Ticket Number with Wrong Format in NDC's Report ------ 0<br><br><br>Amount mismatch between Flight Booking and Sold Report ------ 8<br>G76NUC-11, 001-0820159946, 001-0820159944, 001-0820159945, 176-5512278317, UY5SYT-11, 176-5512249286, 607-5511941473
+
+
+========= FINAL SUMMARY =========
+
+
+# Travel Project Exception Ticket
+
+### Jan-2025 to Till Today :
+
+Duplicate in Flight booking Report-Issue ------ 2<br>607-5512831726, 607-5511395858<br><br>Ticket in Flight Booking but missing in Sold Report-Issue ------ 2<br>607-5512847145, 512-2116905386<br><br>Ticket Number with Wrong Format in NDC's Report ------ 0<br><br><br>Amount mismatch between Flight Booking and Sold Report ------ 6<br>G76NUC-11, 001-0820159946, 001-0820159944, 001-0820159945, UY5SYT-11, 176-5512249286
+
+
+========= FINAL SUMMARY =========
+
+
+# Travel Project Exception Ticket
+
+### Jan-2025 to Till Today :
+
+Duplicate in Flight booking Report-Issue ------ 1<br>607-5512831726<br><br>Ticket in Flight Booking but missing in Sold Report-Issue ------ 2<br>607-5512847145, 512-2116905386<br><br>Ticket Number with Wrong Format in NDC's Report ------ 0<br><br><br>Amount mismatch between Flight Booking and Sold Report ------ 7<br>G76NUC-11, 001-0820159946, 001-0820159944, 001-0820159945, 176-5512335788, UY5SYT-11, 176-5512249286
+
+
+========= FINAL SUMMARY =========
+
+
+# Travel Project Exception Ticket
+
+### Jan-2025 to Till Today :
+
+Duplicate in Flight booking Report-Issue ------ 1<br>176-1944503510<br><br>Ticket in Flight Booking but missing in Sold Report-Issue ------ 2<br>607-5512847145, 512-2116905386<br><br>Ticket Number with Wrong Format in NDC's Report ------ 0<br><br><br>Amount mismatch between Flight Booking and Sold Report ------ 5<br>G76NUC-11, 001-0820159946, 001-0820159944, 001-0820159945, UY5SYT-11
+
+
+========= FINAL SUMMARY =========
+
+
+# Travel Project Exception Ticket
+
+### Jan-2025 to Till Today :
+
+Duplicate in Flight booking Report-Issue ------ 1<br>176-1944503510<br><br>Ticket in Flight Booking but missing in Sold Report-Issue ------ 3<br>176-1944503510, 607-5512847145, 512-2116905386<br><br>Ticket Number with Wrong Format in NDC's Report ------ 0<br><br><br>Amount mismatch between Flight Booking and Sold Report ------ 5<br>G76NUC-11, 001-0820159946, 001-0820159944, 001-0820159945, UY5SYT-11
+
+
+========= FINAL SUMMARY =========
+
+
+# Travel Project Exception Ticket
+
+### Jan-2025 to Till Today :
+
+Duplicate in Flight booking Report-Issue ------ 1<br>176-1944503510<br><br>Ticket in Flight Booking but missing in Sold Report-Issue ------ 3<br>176-1944503510, 607-5512847145, 512-2116905386<br><br>Ticket Number with Wrong Format in NDC's Report ------ 0<br><br><br>Amount mismatch between Flight Booking and Sold Report ------ 5<br>G76NUC-11, 001-0820159946, 001-0820159944, 001-0820159945, UY5SYT-11
+
+
+========= FINAL SUMMARY =========
+
+
+# Travel Project Exception Ticket
+
+### Jan-2025 to Till Today :
+
+Duplicate in Flight booking Report-Issue ------ 8<br>607-5511902390, 607-5511911343, 607-5511911344, 607-5511911345, 607-5511815126, 607-5511815127, 607-5511815128, 607-5511815129<br><br>Ticket in Flight Booking but missing in Sold Report-Issue--- 0<br><br>Ticket Number with Wrong Format in NDC's Report ------ 0<br><br><br>Amount mismatch between Flight Booking and Sold Report ------ 9<br>607-9492881894, 176-1944503510, 607-5512772396, G76NUC-11, 607-1949907550, 001-0820159946, 001-0820159944, 001-0820159945, UY5SYT-11
+
+
+========= FINAL SUMMARY =========
+
+
+# Travel Project Exception Ticket
+
+### Jan-2025 to Till Today :
+
+Duplicate in Flight booking Report-Issue ------ 8<br>607-5511902390, 607-5511911343, 607-5511911344, 607-5511911345, 607-5511815126, 607-5511815127, 607-5511815128, 607-5511815129<br><br>Ticket in Flight Booking but missing in Sold Report-Issue--- 0<br><br>Ticket Number with Wrong Format in NDC's Report ------ 0<br><br><br>Amount mismatch between Flight Booking and Sold Report ------ 6<br>176-1944503510, G76NUC-11, 001-0820159946, 001-0820159944, 001-0820159945, UY5SYT-11
+
+
+========= FINAL SUMMARY =========
+
+
+# Travel Project Exception Ticket
+
+### Jan-2025 to Till Today :
+
+Duplicate in Flight booking Report-Issue ------ 8<br>607-5511902390, 607-5511911343, 607-5511911344, 607-5511911345, 607-5511815126, 607-5511815127, 607-5511815128, 607-5511815129<br><br>Ticket in Flight Booking but missing in Sold Report-Issue--- 0<br><br>Ticket Number with Wrong Format in NDC's Report ------ 0<br><br><br>Amount mismatch between Flight Booking and Sold Report ------ 7<br>169-9492881903, 176-1944503510, G76NUC-11, 001-0820159946, 001-0820159944, 001-0820159945, UY5SYT-11
+
